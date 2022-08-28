@@ -34,9 +34,16 @@ Users should be able to:
 ### Links
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
+
 - Live Site: [github.io](https://your-live-site-url.com)
 
 ## My process
+
+### Workflow
+
+ - Setting up the workflow (Initialize Git, Setting up folders structure)
+ - Setting up CSS Preflight (Adding CSS reset, Adding google fonts, Identify Css custom properties)
+ - Creating HTML Skeleton based on `./assets/design` materials
 
 ### Built with
 
