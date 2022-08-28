@@ -44,6 +44,7 @@ Users should be able to:
  - Setting up the workflow (Initialize Git, Setting up folders structure)
  - Setting up CSS Preflight (Adding CSS reset, Adding google fonts, Identify Css custom properties)
  - Creating HTML Skeleton based on `./assets/design` materials
+ - Working on mobile design (375 x 870 {px})
 
 ### Built with
 
