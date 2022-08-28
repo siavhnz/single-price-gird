@@ -145,4 +145,48 @@ body {
     color: hsla(0, 0% , 100%, 0.7);
 }
 
+@media screen and (min-width: 40em) {
+    .price-grid {
+        max-width: 39.6rem;
+        display: grid;
+        grid-template: auto auto / 1fr 1fr ;
+    }
+    
+    .price-grid .info,
+    .price-grid .subscription,
+    .price-grid .why-us {
+        padding: 2.5rem;
+        padding-bottom: 2.369rem;
+    }
+
+    .price-grid .info {
+        grid-area: 1 / 1 / 2 / -1;
+        padding-bottom: 2.125rem;
+        padding-top: 2.369rem;
+    }
+
+    
+    .price-grid .info .title{
+        font-size: 1.46rem;
+    }
+
+    .price-grid .info .sub-title{
+        font-size: 1.1rem; 
+    }
+
+    .price-grid .info .desc{
+        font-size: 0.9775rem;
+        margin-top: 0.2rem;
+    }
+
+    .border-radius-ls-left {
+        border-bottom-left-radius: var(--border-radius);
+    }
+    .border-radius-ls-bottom {
+        border-radius: 0%;
+        border-bottom-right-radius: var(--border-radius);
+    }
+
+}
+
 
