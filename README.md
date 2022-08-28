@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./assets/images/screenshot.JPG)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/single-price-grid-component-Vsmw-cl4xx)
 
-- Live Site: [github.io](https://your-live-site-url.com)
+- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/10.single-price-grid/index.html)
 
 ## My process
 
@@ -45,6 +45,9 @@ Users should be able to:
  - Setting up CSS Preflight (Adding CSS reset, Adding google fonts, Identify Css custom properties)
  - Creating HTML Skeleton based on `./assets/design` materials
  - Working on mobile design (375 x 870 {px})
+ - working on desktop design (1440 x 800 {px})
+ - Writting README.md
+ - publish on github.io | github.com | frontendmentor.io
 
 ### Built with
 
@@ -56,14 +59,28 @@ Users should be able to:
 
 ### What I learned
 
+In this challenge I learned how to style a block by `grid-area`
 
 ### Continued development
 
+I need more practice on CSS Grid system
+
 ### Useful resources
+
+ - [MDN Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+ 
+ - [CSS Grid garden game](https://cssgridgarden.com/)
+
 
 ## Author
 
 - Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
 
 ## Acknowledgments
+
+Thanks To
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
 
